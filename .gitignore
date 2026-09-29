@@ -1,0 +1,10 @@
+data/
+runs/
+evaluations/
+*.pt
+*.zip
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
+.env
+.vscode/
